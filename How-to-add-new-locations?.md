@@ -23,4 +23,14 @@ The "database" is actually just a flat file in a JSON format that stores all the
 Now you have your location in a correct and valid format, but you still have to send it over to me, so i can review and eventually add it in the [productional map](http://gta5-map.github.io) if everything looks good. To do this you have two options. You can either:
 
 * fork this repository, add and commit your changes and then create a pull request. This method is the most comfortable one for me because, i don't have to do anything except clicking one button to review and add your content. Downside: you have to mess with `git` and GitHub.
-* just send me the `locations.json` element. 
+* just send me the `locations.json` element, via:
+  * E-mail: [j@frd.mn](mailto:j@frd.mn)
+  * Twitter: [@frdmn](https://twitter.com/frdmn)
+  * Reddit: [/u/frdmn](http://www.reddit.com/user/frdmn)
+  * IRC: frdmn @ espernet/freenode
+
+##### 4. Wait till i reviewed, merged / added your content
+
+Once you sent me over the new location configuration, you'll need to be patient until i reviewed it and either merged your pull request, or implemented your part of the `locations.json` into the official one.
+
+I'll let you know once i did :)
