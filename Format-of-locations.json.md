@@ -5,6 +5,7 @@ The basic syntax of this file is pretty easy. Here are two examples:
       {
         "id":1,
         "type":"Wall breaches",
+        "timestamp":"2014-06-30T20:52:43+00:00",
         "title":"Breach name",
         "notes":"Go to the location as seen below. First do this, then that and then do that.",
         "order":1,
@@ -30,6 +31,7 @@ The basic syntax of this file is pretty easy. Here are two examples:
       {
         "id":2,
         "type":"Wall breaches",
+        "timestamp":"2014-06-30T20:52:43+00:00",
         "title":"Breach name",
         "notes":"Go to the location as seen below. First do this, then that and then do that.",
         "order":2,
