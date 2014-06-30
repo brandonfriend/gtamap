@@ -61,3 +61,5 @@ The basic syntax of this file is pretty easy. Here are two examples:
           }
         ]
       }
+
+In case you need the timestamp: go to [timestampgenerator.com](http://www.timestampgenerator.com) and copy the _Server time_ timestamp. 
