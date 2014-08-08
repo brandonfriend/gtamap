@@ -33,4 +33,4 @@ Now you have your location in a correct and valid format, but you still have to 
 
 Once you sent me over the new location configuration, you'll need to be patient until i reviewed it and either merged your pull request, or implemented your part of the `locations.json` into the official one.
 
-I'll let you know once i did :)
+I'll let you know as soon as I approved your addition :)
